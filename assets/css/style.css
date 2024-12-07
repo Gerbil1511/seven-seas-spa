@@ -31,10 +31,11 @@
     background-color: #6F4E37;
     color: #FFEBD4;
 }
+
 i {
     color: #FFEBD4;
 }
 
 .main-container {
-    height: 100vh; /* Adjust the height as needed */
+    min-height: 100vh; /* Adjust the height as needed */
 }
