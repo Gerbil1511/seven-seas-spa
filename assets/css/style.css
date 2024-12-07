@@ -3,7 +3,8 @@
 }
 
 .navbar-nav .nav-link.active {
-    font-weight: bold;
+    font-weight: bolder;
+    color: black;
 }
 
 .hero {
@@ -32,4 +33,8 @@
 }
 i {
     color: #FFEBD4;
+}
+
+.main-container {
+    height: 100vh; /* Adjust the height as needed */
 }
